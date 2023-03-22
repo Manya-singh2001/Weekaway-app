@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weekaway-app/static/css/main.f361b934.css",
+    "main.js": "/Weekaway-app/static/js/main.edc6b8e3.js",
+    "index.html": "/Weekaway-app/index.html",
+    "main.f361b934.css.map": "/Weekaway-app/static/css/main.f361b934.css.map",
+    "main.edc6b8e3.js.map": "/Weekaway-app/static/js/main.edc6b8e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f361b934.css",
+    "static/js/main.edc6b8e3.js"
+  ]
+}
